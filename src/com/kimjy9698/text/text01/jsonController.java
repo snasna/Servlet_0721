@@ -28,7 +28,7 @@ public class jsonController extends HttpServlet{
 		int div = num1 / num2;
 		
 		
-		out.println("{\"addtion\":\" + add + ", \"subtraction\":" + sub + ", \"multiplication\":" + mul +  "\", \"division\":" + div + "}");
+//		out.println("{\"addtion\":\" + add + ", \"subtraction\":" + sub + ", \"multiplication\":" + mul +  "\", \"division\":" + div + "}");
 		
 		
 		
